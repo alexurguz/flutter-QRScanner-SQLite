@@ -6,6 +6,7 @@ These are some of the main themes of the section:
  *  Use of maps  Mapbox  Markers  
  *  Open URLs  
  *  And more  
+ 
 The objective is to create a real application, using different forms of views, 
 tabs and others, this application can be more polished and sold in the AppStores if they wish, 
 they do not have to ask me for permission to use the code that they will learn here, since it is theirs .
